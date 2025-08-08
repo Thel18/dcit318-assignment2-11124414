@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovableApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de195bd46d248ae84e16f47cb7edc84b985da16d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bf66fd7b61e811824095de25735309f5ee1dbaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovableApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovableApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

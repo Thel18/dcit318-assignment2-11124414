@@ -1,0 +1,15 @@
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\bin\Debug\net9.0\MovableApp.exe
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\bin\Debug\net9.0\MovableApp.deps.json
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\bin\Debug\net9.0\MovableApp.runtimeconfig.json
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\bin\Debug\net9.0\MovableApp.dll
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\bin\Debug\net9.0\MovableApp.pdb
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.AssemblyInfoInputs.cache
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.AssemblyInfo.cs
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.csproj.CoreCompileInputs.cache
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.sourcelink.json
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.dll
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\refint\MovableApp.dll
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.pdb
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\MovableApp.genruntimeconfig.cache
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\MovableApp\obj\Debug\net9.0\ref\MovableApp.dll
