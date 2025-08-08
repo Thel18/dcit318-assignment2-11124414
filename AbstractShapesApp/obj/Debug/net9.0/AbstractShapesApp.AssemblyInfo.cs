@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractShapesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de195bd46d248ae84e16f47cb7edc84b985da16d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+214d1010d615bef04af767302d1a7ce3b894d597")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractShapesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractShapesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

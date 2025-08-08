@@ -1,0 +1,15 @@
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\bin\Debug\net9.0\AbstractShapesApp.exe
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\bin\Debug\net9.0\AbstractShapesApp.deps.json
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\bin\Debug\net9.0\AbstractShapesApp.runtimeconfig.json
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\bin\Debug\net9.0\AbstractShapesApp.dll
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\bin\Debug\net9.0\AbstractShapesApp.pdb
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.AssemblyInfoInputs.cache
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.AssemblyInfo.cs
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.sourcelink.json
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.dll
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\refint\AbstractShapesApp.dll
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.pdb
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\AbstractShapesApp.genruntimeconfig.cache
+C:\Users\THELMA\Documents\dcit318-assignment2-11124414\AbstractShapesApp\obj\Debug\net9.0\ref\AbstractShapesApp.dll
